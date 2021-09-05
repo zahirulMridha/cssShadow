@@ -1,0 +1,31 @@
+/*h1{
+   color: white;
+   text-shadow:5px 5px 5px  black
+}
+
+h1 {
+   text-shadow: 0 0 6px #FF0000;
+ }
+ 
+ h1 {
+   text-shadow: 0 0 5px #15da57, 0 0 5px #d39d09;
+ }
+ h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px
+  red, 0 0 5px darkblue;
+}
+
+h1 {
+   color: yellow;
+   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ }
+ 
+ .div{
+    width: 300px;
+    height: 150px;
+    background-color: orchid;
+ }
+ div {
+   box-shadow: 10px 10px 5px grey;
+ } */
